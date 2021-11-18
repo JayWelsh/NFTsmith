@@ -1,0 +1,2 @@
+# NFTsmith
+Experimental monorepo
